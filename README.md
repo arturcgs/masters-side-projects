@@ -1,3 +1,3 @@
 # Masters
 
-This repository is for my notebboks and databases regarding my Marter's Degree Program.
+This repository is for code and data regarding my Marter's Degree Program.

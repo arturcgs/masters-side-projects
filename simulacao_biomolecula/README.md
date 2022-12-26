@@ -21,8 +21,8 @@ Deixo aqui também o gif final das duas dinâmicas rodadas neste projeto:
 
 1. THC fora do Sítio Ativo
 
-[dinamica.gif](http://pudim.com.br/)
+![controle_neg.gif](https://github.com/arturcgs/masters/blob/main/simulacao_biomolecula/data/neg.gif?raw=true)
 
 2. THC no Sítio Ativo
 
-![a](https://github.com/arturcgs/masters/blob/main/simulacao_biomolecula/data/sitio_ativo_md.gif?raw=true)
+![sitio_ativo.gif](https://github.com/arturcgs/masters/blob/main/simulacao_biomolecula/data/sitio_ativo_md.gif?raw=true)
